@@ -1,0 +1,11 @@
+A
+	- stai o tura
+	- se pune peste orice
+4
+	- stopeaza
+	- se pune peste orice cat timp stopeaza
+7
+	- schimba culoarea
+	- se pune peste orice
+2, 3
+	- iei
